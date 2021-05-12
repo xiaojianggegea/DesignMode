@@ -3,7 +3,12 @@ package com.ghj.test02;
 import com.ghj.test02.ApparelImpl.*;
 import com.ghj.test02.entity.Person;
 import com.ghj.test02.port.Apparel;
-
+/**
+ * @program: 02_DecorativePattern
+ * @description: 实现类
+ * @author: 小江
+ * @create: 2021-05-12 13:36
+ **/
 public class Main {
     public static void main(String[] args) {
         Person person = new Person();

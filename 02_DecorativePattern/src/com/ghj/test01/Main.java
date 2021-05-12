@@ -1,7 +1,12 @@
 package com.ghj.test01;
 
 import com.ghj.test01.entity.Person;
-
+/**
+ * @program: 02_DecorativePattern
+ * @description: 实现类
+ * @author: 小江
+ * @create: 2021-05-12 13:50
+ **/
 public class Main {
     public static void main(String[] args) {
         Person person = new Person();

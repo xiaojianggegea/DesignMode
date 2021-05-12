@@ -1,5 +1,10 @@
 package com.ghj.test02.entity;
-
+/**
+ * @program: 02_DecorativePattern
+ * @description: Person类
+ * @author: 小江
+ * @create: 2021-05-12 13:35
+ **/
 public class Person {
     private String name;
 

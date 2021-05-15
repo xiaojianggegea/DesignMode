@@ -14,17 +14,17 @@ import com.ghj.test3.method.Subtraction;
  **/
 
 public class OperationType {
-    public static Calculate createOperation(String operate)
-    {
+    public static Calculate createOperation(String operate) {
         Calculate calculate = null;
-        if ("+".equals(operate))
+        if ("+".equals(operate)) {
             calculate = new Addition();
-        else if ("-".equals(operate))
+        } else if ("-".equals(operate)) {
             calculate = new Subtraction();
-        else if ("*".equals(operate))
+        } else if ("*".equals(operate)) {
             calculate = new Multiplication();
-        else if ("/".equals(operate))
+        } else if ("/".equals(operate)) {
             calculate = new Division();
+        }
         return calculate;
     }
 }

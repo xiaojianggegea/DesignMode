@@ -11,7 +11,12 @@ public class Division extends Calculate {
     @Override
     public double getResult() throws Exception {
         double result = 0;
-        result = getNumberA() / getNumberB();
+        if (!"0".equals(getNumberB())) {
+            result = getNumberA() / getNumberB();
+        }else {
+            System.out.println("除数不能为零！");
+        }
+
         return result;
     }
 }

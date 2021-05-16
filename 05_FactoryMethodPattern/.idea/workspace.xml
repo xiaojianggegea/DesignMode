@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2420e3e2-74b5-4530-b388-a518ad760bfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/WhiteHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/factory/AbstractHumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/factory/HumanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/META-INF/05_FactoryMethodPattern.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/entity/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/AdditionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/DivisionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/MultiplicationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/SubtractionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/port/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Addition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Division.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Multiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Subtraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/entity/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/AdditionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/DivisionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/MultiplicationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/SubtractionImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/port/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Addition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Division.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Multiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/OperationType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Subtraction.class" beforeDir="false" />
-    </list>
+    <list default="true" id="2420e3e2-74b5-4530-b388-a518ad760bfb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -379,18 +345,17 @@
       <updated>1621078917569</updated>
       <workItem from="1621078920790" duration="6391000" />
       <workItem from="1621092684996" duration="2416000" />
-      <workItem from="1621150116069" duration="2184000" />
+      <workItem from="1621150116069" duration="2490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10991000" />
+    <option name="totallyTimeSpent" value="11297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -399,7 +364,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24530831" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39678285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

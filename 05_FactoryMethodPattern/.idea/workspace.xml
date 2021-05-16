@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2420e3e2-74b5-4530-b388-a518ad760bfb" name="Default Changelist" comment="" />
+    <list default="true" id="2420e3e2-74b5-4530-b388-a518ad760bfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +62,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" selection-start-line="19" selection-end-line="20" />
+            <state relative-caret-position="360">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
               <folding>
                 <element signature="e#293#294#0" expanded="true" />
                 <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
                 <element signature="e#418#419#0" expanded="true" />
               </folding>
             </state>
@@ -73,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="320">
               <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
               <folding>
                 <element signature="e#294#295#0" expanded="true" />
@@ -121,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+            <state relative-caret-position="133">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,16 +175,16 @@
         <option value="$PROJECT_DIR$/src/com/ghj/example01/test1/factory/OperationType.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example01/test1/Main.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/Human.java" />
-        <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/WhiteHuman.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example02/factory/AbstractHumanFactory.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example02/factory/HumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-50" />
     <option name="y" value="-25" />
     <option name="width" value="1400" />
@@ -345,15 +349,16 @@
       <updated>1621078917569</updated>
       <workItem from="1621078920790" duration="6391000" />
       <workItem from="1621092684996" duration="2416000" />
-      <workItem from="1621150116069" duration="2490000" />
+      <workItem from="1621150116069" duration="2875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11297000" />
+    <option name="totallyTimeSpent" value="11682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -571,31 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" selection-start-line="19" selection-end-line="20" />
-          <folding>
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-          <folding>
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/WhiteHuman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -623,10 +603,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        <state relative-caret-position="133">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

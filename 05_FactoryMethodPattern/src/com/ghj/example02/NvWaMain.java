@@ -32,7 +32,7 @@ public class NvWaMain {
         System.out.println("女娲第三次造人，火候刚刚好");
         System.out.println("--造出第三批人是黄种人--");
         YellowHuman yellowHuman = abstractHumanFactory.createHuman(YellowHuman.class);
-        blackHuman.getColor();
-        blackHuman.talk();
+        yellowHuman.getColor();
+        yellowHuman.talk();
     }
 }

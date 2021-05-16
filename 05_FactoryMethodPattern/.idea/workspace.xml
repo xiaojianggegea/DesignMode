@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2420e3e2-74b5-4530-b388-a518ad760bfb" name="Default Changelist" comment="" />
+    <list default="true" id="2420e3e2-74b5-4530-b388-a518ad760bfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/WhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/factory/AbstractHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/factory/HumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/META-INF/05_FactoryMethodPattern.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/entity/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/AdditionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/DivisionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/MultiplicationImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/SubtractionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/factory/port/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Addition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test01/method/Subtraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/entity/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/AdditionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/DivisionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/MultiplicationImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/SubtractionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/factory/port/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Addition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/OperationType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/05_FactoryMethodPattern/com/ghj/example01/test02/method/Subtraction.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,24 +49,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/factory/DivisionImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="232">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,24 +70,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_FactoryMethodPattern.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Division.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/factory/OperationType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+            <state relative-caret-position="-140">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,37 +82,83 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Subtraction.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            <state relative-caret-position="260">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/entity/Calculate.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Multiplication.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="19" selection-start-line="19" selection-end-line="20" />
+              <folding>
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/factory/AdditionImpl.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="380">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/WhiteHuman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+              <folding>
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/factory/AbstractHumanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/factory/HumanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,6 +173,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -146,6 +204,13 @@
         <option value="$PROJECT_DIR$/src/com/ghj/example01/test1/method/Subtraction.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example01/test1/factory/OperationType.java" />
         <option value="$PROJECT_DIR$/src/com/ghj/example01/test1/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/Human.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/WhiteHuman.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/factory/AbstractHumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/factory/HumanFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java" />
       </list>
     </option>
   </component>
@@ -155,12 +220,14 @@
     <option name="width" value="1400" />
     <option name="height" value="885" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -185,18 +252,37 @@
               <item name="05_FactoryMethodPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
-              <item name="example01" type="462c0819:PsiDirectoryNode" />
+              <item name="example02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05_FactoryMethodPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05_FactoryMethodPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ghj" type="462c0819:PsiDirectoryNode" />
+              <item name="example02" type="462c0819:PsiDirectoryNode" />
+              <item name="connector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05_FactoryMethodPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05_FactoryMethodPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ghj" type="462c0819:PsiDirectoryNode" />
+              <item name="example02" type="462c0819:PsiDirectoryNode" />
+              <item name="connector" type="462c0819:PsiDirectoryNode" />
+              <item name="connectorimpl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ghj/example01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -207,6 +293,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ghj.example02.connector" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ghj.example01.test02.method" />
       <recent name="com.ghj.example01.test01.factory" />
@@ -230,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.NvWaMain">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ghj.example01.test02.Main" />
       <module name="05_FactoryMethodPattern" />
@@ -257,10 +346,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NvWaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ghj.example02.NvWaMain" />
+      <module name="05_FactoryMethodPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.example02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.NvWaMain" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -276,16 +379,18 @@
       <updated>1621078917569</updated>
       <workItem from="1621078920790" duration="6391000" />
       <workItem from="1621092684996" duration="2416000" />
+      <workItem from="1621150116069" duration="2184000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8807000" />
+    <option name="totallyTimeSpent" value="10991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -294,7 +399,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5863454" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24530831" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,85 +455,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test01/factory/OperationType.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/DivisionImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/port/Factory.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/SubtractionImpl.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Multiplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/entity/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Subtraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Division.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/OperationType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/MultiplicationImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Addition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/AdditionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/DivisionImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/port/Factory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/SubtractionImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Multiplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/entity/Calculate.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Subtraction.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Division.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/OperationType.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/MultiplicationImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/method/Addition.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/factory/AdditionImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test02/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/factory/port/Factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -460,16 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/entity/Calculate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
@@ -487,40 +515,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/factory/AdditionImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/factory/DivisionImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="140">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/factory/DivisionImpl.java">
+    <entry file="file://$PROJECT_DIR$/05_FactoryMethodPattern.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Division.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/factory/OperationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Subtraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/entity/Calculate.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_FactoryMethodPattern.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Subtraction.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Multiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/factory/AdditionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -531,34 +589,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/factory/OperationType.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        <state relative-caret-position="-140">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Division.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="260">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/method/Multiplication.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/BlackHuman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example01/test1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/YellowHuman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="380">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/connector/connectorimpl/WhiteHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/factory/AbstractHumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/factory/HumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/NvWaMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

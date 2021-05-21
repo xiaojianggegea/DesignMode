@@ -10,5 +10,4 @@ public interface GiveGift {
     void giveClothes();
     void giveFlowers();
     void giveBag();
-
 }

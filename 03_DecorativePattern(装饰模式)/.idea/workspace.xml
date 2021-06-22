@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab8949bd-8a65-46ad-8f68-f42ef9d4a654" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../02_StrategyMode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/03_DecorativePattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test01/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test01/SchoolReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test01/Transcript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test02/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test02/ModifiedTranscript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test02/SchoolReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test02/Transcript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test03/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test03/SchoolReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test03/Transcript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test03/modify/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test03/modify/HighScoreDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ghj/example02/test03/modify/SortDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_SimpleFactoryPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_SimpleFactoryPattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_StrategyMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_StrategyMode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_StrategyMode/out/production/02_StrategyMode/META-INF/02_StrategyMode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_StrategyMode/out/production/02_StrategyMode/com/ghj/example02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_StrategyMode/out/production/02_StrategyMode/com/ghj/example02/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_StrategyMode/src/com/ghj/example02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_StrategyMode/src/com/ghj/example02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/META-INF/02_DecorativePattern.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test01/entity/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/ApparelImpl/hairStyleImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/ApparelImpl/wearAutumnShoesImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/ApparelImpl/wearGlassesImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/ApparelImpl/wearLongJohnsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/ApparelImpl/wearNikeImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/ApparelImpl/wearPlaidShirtImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/entity/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test02/port/Apparel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/apparel/hairStyle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/apparel/wearAutumnShoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/apparel/wearGlasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/apparel/wearLongJohns.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/apparel/wearNike.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/apparel/wearPlaidShirt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/entity/Finery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/02_DecorativePattern/com/ghj/test03/entity/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test01/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test01/entity/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/ApparelImpl/hairStyleImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/ApparelImpl/hairStyleImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/ApparelImpl/wearAutumnShoesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/ApparelImpl/wearAutumnShoesImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/ApparelImpl/wearGlassesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/ApparelImpl/wearGlassesImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/ApparelImpl/wearLongJohnsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/ApparelImpl/wearLongJohnsImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/ApparelImpl/wearNikeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/ApparelImpl/wearNikeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/ApparelImpl/wearPlaidShirtImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/ApparelImpl/wearPlaidShirtImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/entity/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test02/port/Apparel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test02/port/Apparel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/apparel/hairStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/apparel/hairStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/apparel/wearAutumnShoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/apparel/wearAutumnShoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/apparel/wearGlasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/apparel/wearGlasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/apparel/wearLongJohns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/apparel/wearLongJohns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/apparel/wearNike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/apparel/wearNike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/apparel/wearPlaidShirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/apparel/wearPlaidShirt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/entity/Finery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/entity/Finery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ghj/test03/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/example01/test03/entity/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05_FactoryMethodPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_FactoryMethodPattern/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ab8949bd-8a65-46ad-8f68-f42ef9d4a654" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,19 +17,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/ModifiedTranscript.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="260">
               <caret line="16" column="43" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="43" />
-              <folding>
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/Father.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
@@ -113,17 +41,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/modify/Decorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="220">
               <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
                 <element signature="e#470#471#0" expanded="true" />
               </folding>
             </state>
@@ -133,14 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/modify/HighScoreDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="220">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -148,14 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/modify/SortDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="220">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -163,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/Father.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="456">
               <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -184,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/Transcript.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="380">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#536#537#0" expanded="true" />
                 <element signature="e#586#587#0" expanded="true" />
@@ -197,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/Transcript.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="180">
               <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
@@ -265,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="335" />
     <option name="y" value="-10" />
     <option name="width" value="1400" />
@@ -281,42 +193,43 @@
         <subPane>
           <expand>
             <path>
-              <item name="03_DecorativePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_DecorativePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_DecorativePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_DecorativePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_DecorativePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_DecorativePattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ghj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="03_DecorativePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_DecorativePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
-              <item name="example02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_DecorativePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_DecorativePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
               <item name="example02" type="462c0819:PsiDirectoryNode" />
-              <item name="test02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="03_DecorativePattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="03_DecorativePattern" type="462c0819:PsiDirectoryNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ghj" type="462c0819:PsiDirectoryNode" />
               <item name="example02" type="462c0819:PsiDirectoryNode" />
               <item name="test03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03_DecorativePattern(装饰模式)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_DecorativePattern(装饰模式)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ghj" type="462c0819:PsiDirectoryNode" />
+              <item name="example02" type="462c0819:PsiDirectoryNode" />
+              <item name="test03" type="462c0819:PsiDirectoryNode" />
+              <item name="modify" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -333,7 +246,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ghj/example02/test03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -462,8 +375,6 @@
         <item itemvalue="Application.Father (2)" />
         <item itemvalue="Application.Father (1)" />
         <item itemvalue="Application.Father" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -482,17 +393,17 @@
       <workItem from="1620798310208" duration="1232000" />
       <workItem from="1621164267995" duration="26000" />
       <workItem from="1621164321926" duration="3990000" />
+      <workItem from="1623829548222" duration="185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13788000" />
+    <option name="totallyTimeSpent" value="13973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -748,6 +659,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/ModifiedTranscript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/modify/SortDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/SchoolReport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -755,42 +680,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/ModifiedTranscript.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/Transcript.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="43" />
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/modify/HighScoreDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="220">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/modify/SortDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/Transcript.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -803,51 +731,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/modify/Decorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="220">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
             <element signature="e#470#471#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/Transcript.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/Transcript.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test03/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ghj/example02/test02/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
